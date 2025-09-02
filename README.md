@@ -2,7 +2,7 @@
 
 ![Profile GIF](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycnNlNjRieXhodGhpY2doN2x6aGI1eWUwcWs4cnQ4OGZ5Zm94aGJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6k6iDdi5NN8ZO/giphy.gif)  
 
-*A 16-year-old coder from Dhangadhi, Nepal, passionate about building futuristic web applications and anime-inspired tech projects.* 🚀  
+*A 16-year-old coder from Itahari, Nepal, passionate about building futuristic web applications and anime-inspired tech projects.* 🚀  
 
 ---
 ![Profile GIF](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2p1cDBwdHRjODVuaTNmdG9haHFpYm5tcXk5M2xxY3VnOGFsZmwyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKR4hFI3RNROE/giphy.gif)  
