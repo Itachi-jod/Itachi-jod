@@ -1,65 +1,28 @@
-# 👋 Hi, I'm **Itachi**
+<h1 align="center">Hi 👋, I'm Itachi</h1>
+<h3 align="center">A passionate frontend developer from Nepal</h3>
 
-![Profile GIF](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycnNlNjRieXhodGhpY2doN2x6aGI1eWUwcWs4cnQ4OGZ5Zm94aGJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6k6iDdi5NN8ZO/giphy.gif)  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itachi-jod&label=Profile%20views&color=0e75b6&style=flat" alt="itachi-jod" /> </p>
 
-*A 17-year-old coder from Dhangadhi, Nepal, passionate about building futuristic web applications and anime-inspired tech projects.* 🚀  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
-![Profile GIF](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2p1cDBwdHRjODVuaTNmdG9haHFpYm5tcXk5M2xxY3VnOGFsZmwyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKR4hFI3RNROE/giphy.gif)  
-## 🌐 About Me
-- 🧑‍💻 **Username:** @Itachi  
-- 👀 **Interests:** Web Development, AI, Futuristic Interfaces  
-- 🌱 **Currently Learning:** Advanced JavaScript, React, AI integrations  
-- 💞️ **Looking to Collaborate On:** Open-source projects, UI/UX experiments  
-- 📫 **Reach Me:** [Email](mailto:ddenesh072@gmail.com)  
-- ⚡ **Fun Fact:** Anime-inspired tech projects fuel my creativity  
+- 👨‍💻 All of my projects are available at [https://itachi-portfolio-five.vercel.app](https://itachi-portfolio-five.vercel.app)
 
----
-![Profile GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydHkzOGJndHJubWd2cG80bnJqNzU3Nnd4czM4Nmo3MHJ1ZTFtMGxrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wMQiwQaolQAWQ/giphy.gif)  
-## 🛠 Skills
+- 📫 How to reach me **itachiinxide@gmail.com**
 
-| Languages | Frameworks | Tools | Others |
-|-----------|-----------|-------|--------|
-| JavaScript, HTML, CSS, Python | React, Node.js, Express | Git, GitHub, VSCode, Figma | API Integration, UI/UX Design, Animations, 3D Hover Effects |
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/itachi.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="itachi.dev" height="30" width="40" /></a>
+<a href="https://fb.com/itachifucxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itachifucxx" height="30" width="40" /></a>
+<a href="https://instagram.com/itxchi_sama_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itxchi_sama_" height="30" width="40" /></a>
+</p>
 
-## 📈 GitHub Stats
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![Ryukazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukazi&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukazi&layout=compact&theme=dark)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itachi-jod&show_icons=true&locale=en&layout=compact" alt="itachi-jod" /></p>
 
----
-
-## 🌟 Pinned Projects
-
-| Project | Description | Language |
-|---------|-------------|---------|
-| [Yag](https://github.com/Ryukazi/Yag) | Personal chat bot using Messenger | JavaScript |
-| [portfolio.X3](https://github.com/Ryukazi/portfolio.X3) | Advanced portfolio website with animations | HTML/CSS/JS |
-| [Bot+](https://github.com/Ryukazi/Bot+) | Interactive Messenger bots with multiple features | JavaScript |
-
----
-
-## 📝 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ryukazi&theme=react-dark)  
-
-- 🔹 **317 commits** across 18 repositories (August 2025)  
-- 🔹 **18 new repositories** created  
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium)](https://medium.com/)  
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok)](https://tiktok.com/)  
-[![X (Twitter)](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/)  
-[![Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome)](https://yourwebsite.com/)  
-
----
-![Profile GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyc3Z4YzVpNThnOGtuMWthdndiamJiYzRyazh0Nzh5azU3MWNjbmNzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dlGGZOXy8aWyI/giphy.gif)  
-Made with ❤️ by **Ryukazi**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itachi-jod&show_icons=true&locale=en" alt="itachi-jod" /></p>
