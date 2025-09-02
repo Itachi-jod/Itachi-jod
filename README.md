@@ -1,11 +1,11 @@
 # 👋 Hi, I'm **Itachi**
 
-![Profile GIF](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycnNlNjRieXhodGhpY2doN2x6aGI1eWUwcWs4cnQ4OGZ5Zm94aGJmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6k6iDdi5NN8ZO/giphy.gif)  
+![Profile GIF](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmJ3ZjBucWd0dTU2emo5ZzBobjMxeW1yN2VmeDVmam1nOGxocGJjbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vPn101ZqlgGO5zWcgI/giphy.gif)  
 
 *A 16-year-old coder from Itahari, Nepal, passionate about building futuristic web applications and anime-inspired tech projects.* 🚀  
 
 ---
-![Profile GIF](https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyM2p1cDBwdHRjODVuaTNmdG9haHFpYm5tcXk5M2xxY3VnOGFsZmwyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cKR4hFI3RNROE/giphy.gif)  
+![Profile GIF](https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOHNxbzYzdnlxZjc4ZHdscnIzdHZubzhyenlobjAwY2Q0amZpbGRodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lLvIYDlTO8ts4/giphy.gif)  
 ## 🌐 About Me
 - 🧑‍💻 **Username:** @Itachi  
 - 👀 **Interests:** Web Development, AI, Futuristic Interfaces  
@@ -15,7 +15,7 @@
 - ⚡ **Fun Fact:** Anime-inspired tech projects fuel my creativity  
 
 ---
-![Profile GIF](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUydHkzOGJndHJubWd2cG80bnJqNzU3Nnd4czM4Nmo3MHJ1ZTFtMGxrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wMQiwQaolQAWQ/giphy.gif)  
+![Profile GIF](https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyMTVheWZlMG1uenpydWhsY2lmNW5jNXMwc2tiOTU2ZTR4ZHVxZjI5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rrTXn4zEMp008/giphy.gif)  
 ## 🛠 Skills
 
 | Languages | Frameworks | Tools | Others |
