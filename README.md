@@ -26,8 +26,8 @@
 
 ## 📈 GitHub Stats
 
-![Itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukazi&show_icons=true&theme=dark&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukazi&layout=compact&theme=dark)  
+![Itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itachi&show_icons=true&theme=dark&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Itachi&layout=compact&theme=dark)  
 
 ---
 
@@ -35,15 +35,15 @@
 
 | Project | Description | Language |
 |---------|-------------|---------|
-| [Yag](https://github.com/Ryukazi/Yag) | Personal chat bot using Messenger | JavaScript |
-| [portfolio.X3](https://github.com/Ryukazi/portfolio.X3) | Advanced portfolio website with animations | HTML/CSS/JS |
-| [Bot+](https://github.com/Ryukazi/Bot+) | Interactive Messenger bots with multiple features | JavaScript |
+| [Yag](https://github.com/Itachi/Yag) | Personal chat bot using Messenger | JavaScript |
+| [portfolio.X3](https://github.com/Itachi/portfolio.X3) | Advanced portfolio website with animations | HTML/CSS/JS |
+| [Bot+](https://github.com/Itachi/Bot+) | Interactive Messenger bots with multiple features | JavaScript |
 
 ---
 
 ## 📝 Contribution Activity
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ryukazi&theme=react-dark)  
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Itachi&theme=react-dark)  
 
 - 🔹 **317 commits** across 18 repositories (August 2025)  
 - 🔹 **18 new repositories** created  
