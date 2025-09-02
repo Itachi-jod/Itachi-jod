@@ -26,7 +26,7 @@
 
 ## 📈 GitHub Stats
 
-![Ryukazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukazi&show_icons=true&theme=dark&count_private=true)  
+![Itachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryukazi&show_icons=true&theme=dark&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryukazi&layout=compact&theme=dark)  
 
 ---
